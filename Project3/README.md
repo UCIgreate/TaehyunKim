@@ -1,4 +1,4 @@
-# face_recognition 사용하려면   
+# face_detect.py에서 fece_recognition 사용하려면   
 ```python
 >>>pip install cmake   
        
